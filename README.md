@@ -59,4 +59,3 @@ enviarScript(`
 
 ---
 
-This markdown provides a clear and organized way to present the instructions for using the script.

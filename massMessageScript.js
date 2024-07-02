@@ -24,16 +24,16 @@ async function enviarScript(scriptText){
 
 enviarScript(`
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ
 冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ
@@ -51,16 +51,16 @@ enviarScript(`
 冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ
 冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ冤ᦤ液ᦥ
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 .๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.
 .๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.
@@ -88,16 +88,16 @@ enviarScript(`
 .๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.
 .๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.๔.๔.๔.๔.๔.๔.29.ŏ.
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 
 以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 
@@ -116,16 +116,16 @@ enviarScript(`
 以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 
 以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 您好,可以利用 
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
 R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
@@ -156,16 +156,16 @@ R04�Rx����Z\���Z�P��P��Y����X������
                                                                     �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
 ���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
 R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
@@ -188,57 +188,16 @@ R04�Rx����Z\���Z�P��P��Y����X������
                                                                     �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
 ���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
-
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
-
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
 R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
@@ -269,98 +228,16 @@ R04�Rx����Z\���Z�P��P��Y����X������
                                                                     �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
 ���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-
-
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
 R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
@@ -390,6 +267,26 @@ r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���
 R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
                                                                     �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
 ���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
 r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
 R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
                                                                     �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
@@ -407,62 +304,16 @@ R04�Rx����Z\���Z�P��P��Y����X������
                                                                     �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
 ���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
-R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
-                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
-���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
 R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
@@ -501,16 +352,169 @@ R04�Rx����Z\���Z�P��P��Y����X������
                                                                     �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
 ���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
 
-*Dejen de usar el nombre de Zamia Naturaleza Latina para sus fraudes.*
-*No usen nuestro nombre para estafar a nuestros clientes. Sus acciones tendrán consecuencias legales.*
-*Usar el nombre de Zamia Naturaleza Latina para engañar es un delito. Deténganse ahora.*
-*No utilicen el nombre de empresas que no son ustedes. Estamos tomando acciones legales.*
-*Suplantar a Zamia Naturaleza Latina es un crimen. Cesen sus actividades ilegales de inmediato.*
-*Dejen de engañar a la gente usando nuestro nombre. Estamos al tanto de sus actividades y actuaremos en consecuencia.*
-*Usar el nombre de Zamia Naturaleza Latina para vender productos falsos es ilegal. Serán procesados.*
-*Fraude usando nuestro nombre será castigado. Deténganse inmediatamente.*
-*No usen el nombre de Zamia Naturaleza Latina. Están cometiendo un delito grave.*
-*Estafar en nombre de nuestra empresa tiene consecuencias severas. Deténganse ahora.*
+
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+r�wqU���;�      _chat.txt���74�7��Q04�26�21Up���sq
+R04�Rx����Z\���Z�P��P��Y����X���������S��X����_�P��\Z���P�Y������[��
+                                                                    �����ʂ���<=^�hBv��:��*���&�)�[)|�?e���˦)��y�����=������Qr�%G�Qr�%G�Qr�%G��Cr%$$d��[�냺Lz�@�8��@/9?W��+Ŵ +8�)9�)540���ȫ ��ᙵ����X�ɣ��W�FE�
+���p�*lhqdP�~˾����rP�\OX���;�   ��_chat.txtPK7b  
+
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
+*RATAAAS!!!*
 
 
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
